@@ -8,5 +8,7 @@ This is the project to Detect the helmet from image
 Libraries used<br>
 1. Tensorflow
 2. Opencv
-3. Keras 
+3. Keras
 </h4>
+
+<b>Dataset used is downloaded from kaggle</b>
